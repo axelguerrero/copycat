@@ -1,0 +1,36 @@
+@import url('https://fonts.googleapis.com/css2?family=Fira+Sans+Extra+Condensed:ital,wght@1,500&display=swap');
+
+h1 {
+    font-family: 'Fira Sans Extra Condensed', sans-serif;
+}
+
+nav ul li {
+    list-style: none;
+    display: inline;
+    font-size: .8em;
+    padding: .5em;
+}
+
+.cSelection {
+    text-align: center;
+}
+
+#Category {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.item {
+    margin: 0 8px;
+}
+#footerMenu {
+    display: inline-flex;
+    padding-left: 250px;
+    
+}
+
+#sideMenu {
+    list-style: none;
+    padding-top: -220px;
+}
